@@ -1,0 +1,11 @@
+Stepeni vershyn:
+Vershyna 1: In-degree = 0, Out-degree = 1
+Vershyna 2: In-degree = 1, Out-degree = 1
+Vershyna 3: In-degree = 1, Out-degree = 1
+Vershyna 4: In-degree = 1, Out-degree = 0
+Vershyna 5: In-degree = 0, Out-degree = 0
+Vershyna 6: In-degree = 0, Out-degree = 0
+
+Graph is not odnoridnyj.
+Izoliovani vershyny: 5, 6
+Vysiachi vershyny: 1, 4
